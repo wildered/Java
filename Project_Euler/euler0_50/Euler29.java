@@ -17,3 +17,5 @@ public class Euler29 {
 		System.out.println(System.currentTimeMillis()-start + "ms");		
 	}
 }
+
+
